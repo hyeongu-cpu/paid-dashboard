@@ -1,0 +1,4 @@
+# 민감 파일 제외
+*.log
+*.txt
+.DS_Store
